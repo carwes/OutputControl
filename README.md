@@ -1,4 +1,5 @@
 OutputControl
 =============
 
-Enables manipulation of templates and there variables right up until the output is rendered.
+Enables manipulation of Twig templates and there variables right up until the
+output is rendered.
